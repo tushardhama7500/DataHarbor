@@ -13,26 +13,26 @@ Identify key trends and insights to inform business strategy for the following y
 
 The dataset includes the following fields:
 
-Index
-Order ID
-Customer ID
-Gender
-Age
-Date
-Status
-Channel
-SKU
-Category
-Size
-Qty
-Currency
-Amount
-Ship-City
-Ship-State
-Ship-Postal-Code
-B2B
+Index,
+Order ID,
+Customer ID,
+Gender,
+Age,
+Date,
+Status,
+Channel,
+SKU,
+Category,
+Size,
+Qty,
+Currency,
+Amount,
+Ship-City,
+Ship-State,
+Ship-Postal-Code,
+B2B;
 
-**Steps Involved:**
+# Steps Involved:
 
 **Data Collection**
 
