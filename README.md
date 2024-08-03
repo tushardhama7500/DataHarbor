@@ -34,7 +34,7 @@ B2B;
 
 # Steps Involved:
 
-**Data Collection**
+**(1.)Data Collection**
 
 **Objective:** The first step is to gather the raw sales data essential for the analysis. Accurate data collection is critical as it forms the foundation of the entire project.
 
@@ -45,7 +45,7 @@ This dataset was downloaded in its raw form, ensuring it captured all necessary 
 **Output:** The dataset was saved as a CSV file, making it accessible and ready for subsequent stages of data transformation and analysis.
 
 
-**Data Transformation and Cleaning**
+**(2.)Data Transformation and Cleaning**
 
 **Objective:** This step involves preparing the data for analysis by addressing any inconsistencies or errors within the dataset. Clean and well-organized data is crucial for accurate analysis.
 
@@ -56,7 +56,7 @@ Applied transformations to standardize the data, making it easier to analyze.
 
 **Output:** A cleaned and well-structured dataset, free of errors and inconsistencies, ready for in-depth analysis.
 
-**Data Analysis**
+**(3.)Data Analysis**
 
 **Objective:** Conduct a thorough analysis of the cleaned data to uncover patterns, trends, and key metrics that can provide valuable insights into sales performance.
 
@@ -67,7 +67,7 @@ Conducted trend analysis to identify peak sales periods and seasonal variations.
 Examined customer behavior and product performance to understand what drives sales.
 Output: Analytical insights represented in detailed tables and visually appealing charts, providing a clear picture of Vrinda Store's sales dynamics.
 
-**Dashboard Creation**
+**(4.)Dashboard Creation**
 
 **Objective:** Create a dynamic and interactive dashboard to visualize the analysis results, making it easier for stakeholders to understand and utilize the insights.
 
@@ -78,11 +78,11 @@ Focused on creating a user-friendly interface that presents complex data in an a
 
 **Output:** A comprehensive and dynamic sales dashboard that enables effective data visualization and facilitates better decision-making.
 
-**Key Findings and Insights**
+**(5.)Key Findings and Insights**
 
 Gender-Based Purchases: Women are more likely to buy compared to men, with about 65% of purchases.
 Top Contributing States: New Delhi, Mumbai, Hyderabad contribute to approximately 35% of the sales.
-**Age Group Analysis:** The Adult age group (30-49 years) is the most contributing demographic, accounting for around 50% of purchases.
+Age Group Analysis: The Adult age group (30-49 years) is the most contributing demographic, accounting for around 50% of purchases.
 Sales Channels: Amazon, Myntra, and Flipkart are the leading channels, contributing to about 80% of the sales.
 
 # Recommendations for Vrinda Store
