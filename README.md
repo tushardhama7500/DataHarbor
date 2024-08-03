@@ -88,5 +88,7 @@ Sales Channels: Amazon, Myntra, and Flipkart are the leading channels, contribut
 # Recommendations for Vrinda Store
 
 **Target Audience:** Focus on women in the age group of 30-49 years.
+
 **Geographical Focus:** Prioritize marketing and sales efforts in New Delhi, Mumbai, and Hyderabad.
+
 **Channel Strategy:** Enhance presence and promotions on Amazon, Myntra, and Flipkart.
