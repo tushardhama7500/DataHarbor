@@ -4,7 +4,7 @@
 
 This project focuses on analyzing sales data from the Vrinda Store with the goal of providing actionable insights to boost sales performance. The entire analysis was conducted using Excel, leveraging data obtained from Kaggle. The project involves multiple stages, including data collection, cleaning, transformation, analysis, and visualization through a dynamic dashboard. Finally, the project concludes with strategic insights and recommendations aimed at improving sales.
 
-# Objectives
+# Objective
 
 Analyze sales and customer data for the year 2022.
 Identify key trends and insights to inform business strategy for the following year.
@@ -45,7 +45,7 @@ This dataset was downloaded in its raw form, ensuring it captured all necessary 
 **Output:** The dataset was saved as a CSV file, making it accessible and ready for subsequent stages of data transformation and analysis.
 
 
-# Data Transformation and Cleaning
+**Data Transformation and Cleaning**
 
 **Objective:** This step involves preparing the data for analysis by addressing any inconsistencies or errors within the dataset. Clean and well-organized data is crucial for accurate analysis.
 
@@ -56,7 +56,7 @@ Applied transformations to standardize the data, making it easier to analyze.
 
 **Output:** A cleaned and well-structured dataset, free of errors and inconsistencies, ready for in-depth analysis.
 
-# Data Analysis
+**Data Analysis**
 
 **Objective:** Conduct a thorough analysis of the cleaned data to uncover patterns, trends, and key metrics that can provide valuable insights into sales performance.
 
@@ -78,7 +78,7 @@ Focused on creating a user-friendly interface that presents complex data in an a
 
 **Output:** A comprehensive and dynamic sales dashboard that enables effective data visualization and facilitates better decision-making.
 
-# Key Findings and Insights
+**Key Findings and Insights**
 
 Gender-Based Purchases: Women are more likely to buy compared to men, with about 65% of purchases.
 Top Contributing States: New Delhi, Mumbai, Hyderabad contribute to approximately 35% of the sales.
